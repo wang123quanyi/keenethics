@@ -25,7 +25,7 @@ const companyData = {
   description: 'Custom Software Development Company',
   address: {
     '@type': 'PostalAddress',
-    streetAddress: '3 Lytvynenka Street',
+    streetAddress: 'Kulparkivska St, 59',
     addressLocality: 'Lviv',
     postalCode: '79000',
     addressCountry: 'Ukraine',
