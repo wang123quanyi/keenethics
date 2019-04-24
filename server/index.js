@@ -1,3 +1,4 @@
+console.log('ENV: ', process.env);
 const express = require('express');
 const expressUncapitalize = require('express-uncapitalize');
 const fs = require('fs');
